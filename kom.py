@@ -1,5 +1,3 @@
-import uuid
-
 from google.apputils import app
 from ortools.linear_solver import pywraplp
 
